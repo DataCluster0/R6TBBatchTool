@@ -68,4 +68,12 @@ Added Seprate Download Options in DepotDownloader
 Fixed select menu issues
 changed logs file to logs.logs
 
+
+
+Release 2.4.9.3
+-------------------------
++ Added somecolors
+~ Making new ui concepts
+New Discord Server : www.discord.gg/u7PBEr7
+
 ```

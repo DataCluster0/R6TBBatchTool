@@ -1,3 +1,3 @@
 # R6TBBatchTool
 
-Discord : Zer0Bytes#4428
+Discord : https://www.discord.gg/u7PBEr7
