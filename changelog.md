@@ -80,5 +80,5 @@ Release 2.4.9.3
 Release 2.4.9.4
 -------------------------
 + added all seasons
-~ 2 lazy to add all the langueges
+~ 2 lazy to add all the languages
 ```
