@@ -74,6 +74,11 @@ Release 2.4.9.3
 -------------------------
 + Added somecolors
 ~ Making new ui concepts
-New Discord Server : www.discord.gg/u7PBEr7
 
+
+
+Release 2.4.9.4
+-------------------------
++ added all seasons
+~ 2 lazy to add all the langueges
 ```
